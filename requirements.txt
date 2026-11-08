@@ -1,0 +1,10 @@
+pandas
+pyarrow
+duckdb
+geopandas
+matplotlib
+seaborn
+plotly
+folium
+requests
+jupyter

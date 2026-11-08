@@ -1,0 +1,62 @@
+﻿file_name,column_name,data_type,meaning,unit,example_value
+home_maids_vs_population_kapanewon.csv,KAB_KOTA,str,Nama kabupaten/kota tempat kecamatan atau kapanewon berada.,-,YOGYAKARTA
+home_maids_vs_population_kapanewon.csv,KEC_KAPN,str,Nama kecamatan atau kapanewon yang menjadi unit wilayah pengamatan.,-,GONDOMANAN
+home_maids_vs_population_kapanewon.csv,n_users,int64,Jumlah perangkat (MAID) yang memiliki estimasi lokasi rumah di wilayah tersebut; bukan jumlah penduduk.,perangkat/MAID,28874
+home_maids_vs_population_kapanewon.csv,pop_actual,float64,Jumlah penduduk aktual berdasarkan data populasi resmi yang digunakan dalam dataset.,orang,12850.0
+home_maids_vs_population_kapanewon.csv,ratio,float64,Rasio perbandingan jumlah perangkat (n_users) terhadap jumlah penduduk aktual (pop_actual).,rasio (tanpa satuan),2.247003891050584
+od_home_visits_kapanewon_monthly.csv,month,str,Bulan pengamatan dalam format tahun-bulan.,YYYY-MM,2021-12
+od_home_visits_kapanewon_monthly.csv,origin_kab_code,float64,Kode administratif kabupaten/kota asal perangkat berdasarkan estimasi lokasi rumah; pada pemrosesan sebaiknya diperlakukan sebagai identifier string.,kode wilayah,34.01
+od_home_visits_kapanewon_monthly.csv,origin_kab_kota,str,Nama kabupaten/kota asal berdasarkan estimasi lokasi rumah.,-,KULON PROGO
+od_home_visits_kapanewon_monthly.csv,origin_code,str,Kode administratif kecamatan/kapanewon asal berdasarkan estimasi lokasi rumah.,kode wilayah,34.01.01
+od_home_visits_kapanewon_monthly.csv,origin_kapanewon,str,Nama kecamatan/kapanewon asal berdasarkan estimasi lokasi rumah.,-,TEMON
+od_home_visits_kapanewon_monthly.csv,dest_kab_code,float64,Kode administratif kabupaten/kota tujuan; pada pemrosesan sebaiknya diperlakukan sebagai identifier string.,kode wilayah,34.01
+od_home_visits_kapanewon_monthly.csv,dest_kab_kota,str,Nama kabupaten/kota tujuan.,-,KULON PROGO
+od_home_visits_kapanewon_monthly.csv,dest_code,str,Kode administratif kecamatan/kapanewon tujuan.,kode wilayah,34.01.01
+od_home_visits_kapanewon_monthly.csv,dest_kapanewon,str,Nama kecamatan/kapanewon tujuan.,-,TEMON
+od_home_visits_kapanewon_monthly.csv,n_maids,int64,Jumlah perangkat (MAID) yang tercatat pada pasangan wilayah asal-tujuan; bukan jumlah orang atau jumlah perjalanan.,perangkat/MAID,569
+od_home_visits_kapanewon_monthly.csv,reduced_quality,bool,Penanda bahwa data pada periode tersebut ditandai memiliki kualitas yang berkurang; nilai True perlu ditafsirkan dengan hati-hati.,boolean,False
+od_origin_homes_monthly.csv,month,str,Bulan pengamatan dalam format tahun-bulan.,YYYY-MM,2021-12
+od_origin_homes_monthly.csv,origin_kab_code,float64,Kode administratif kabupaten/kota asal berdasarkan estimasi lokasi rumah; pada pemrosesan sebaiknya diperlakukan sebagai identifier string.,kode wilayah,34.01
+od_origin_homes_monthly.csv,origin_kab_kota,str,Nama kabupaten/kota asal berdasarkan estimasi lokasi rumah.,-,KULON PROGO
+od_origin_homes_monthly.csv,origin_code,str,Kode administratif kecamatan/kapanewon asal berdasarkan estimasi lokasi rumah.,kode wilayah,34.01.01
+od_origin_homes_monthly.csv,origin_kapanewon,str,Nama kecamatan/kapanewon asal berdasarkan estimasi lokasi rumah.,-,TEMON
+od_origin_homes_monthly.csv,n_homed_maids,int64,Jumlah perangkat (MAID) yang memiliki estimasi lokasi rumah di kecamatan/kapanewon tersebut.,perangkat/MAID,658
+od_origin_homes_monthly.csv,n_homed_maids_daytime,int64,Jumlah perangkat (MAID) pada indikator estimasi lokasi rumah versi daytime; definisi perhitungan rinci perlu merujuk metodologi sumber.,perangkat/MAID,610
+od_origin_homes_monthly.csv,reduced_quality,bool,Penanda bahwa data pada periode tersebut ditandai memiliki kualitas yang berkurang; nilai True perlu ditafsirkan dengan hati-hati.,boolean,False
+od_summary.csv,k,int64,Ambang batas minimum jumlah perangkat yang digunakan dalam mekanisme publikasi data (threshold k).,perangkat/MAID,5
+od_summary.csv,min_nights,int64,Parameter jumlah minimum malam yang digunakan dalam penyusunan data OD; definisi operasional rinci perlu merujuk metodologi sumber.,malam,2
+od_summary.csv,od_rows_total,int64,Jumlah keseluruhan baris data OD sebelum suppression.,baris,19263
+od_summary.csv,od_rows_published,int64,Jumlah baris data OD yang berhasil dipublikasikan setelah suppression.,baris,9894
+od_summary.csv,od_rows_suppressed_pct,float64,Persentase baris data OD yang tidak dipublikasikan akibat mekanisme suppression.,persen (%),48.6
+od_summary.csv,inter_zonal_flow_kept_pct,float64,Persentase aliran antarzona yang tetap dipertahankan dalam data OD yang dipublikasikan; bukan persentase penduduk atau perjalanan.,persen (%),95.3
+od_summary.csv,origin_rows_published,int64,Jumlah baris data origin yang berhasil dipublikasikan.,baris,390
+presence_cell500m_daily.csv,cell_id,str,Identitas unik unit grid spasial berukuran 500 meter.,ID grid,E786_N18255
+presence_cell500m_daily.csv,x_min_utm,int64,Koordinat minimum sumbu X pada grid dalam sistem koordinat UTM.,meter,393000
+presence_cell500m_daily.csv,y_min_utm,int64,Koordinat minimum sumbu Y pada grid dalam sistem koordinat UTM.,meter,9127500
+presence_cell500m_daily.csv,centroid_lon,float64,Koordinat bujur (longitude) titik pusat grid.,derajat,110.031602
+presence_cell500m_daily.csv,centroid_lat,float64,Koordinat lintang (latitude) titik pusat grid; nilai negatif menunjukkan lokasi di belahan bumi selatan.,derajat,-7.8899
+presence_cell500m_daily.csv,date,str,Tanggal pengamatan data kehadiran perangkat.,YYYY-MM-DD,2021-12-01
+presence_cell500m_daily.csv,n_maids,int64,Jumlah perangkat (MAID) unik yang terdeteksi pada grid tersebut pada tanggal pengamatan.,perangkat/MAID,9
+presence_kapanewon_hourly.csv,kab_code,float64,Kode administratif kabupaten/kota; pada pemrosesan sebaiknya diperlakukan sebagai identifier string agar format kode terjaga.,kode wilayah,34.01
+presence_kapanewon_hourly.csv,kab_kota,str,Nama kabupaten/kota tempat kapanewon berada.,-,KULON PROGO
+presence_kapanewon_hourly.csv,kapanewon_code,str,Kode administratif kecamatan/kapanewon.,kode wilayah,34.01.01
+presence_kapanewon_hourly.csv,kapanewon,str,Nama kecamatan/kapanewon tempat perangkat terdeteksi.,-,TEMON
+presence_kapanewon_hourly.csv,date,str,Tanggal pengamatan data kehadiran perangkat.,YYYY-MM-DD,2021-12-01
+presence_kapanewon_hourly.csv,hour,int64,"Jam pengamatan dalam format 24 jam, dengan rentang 0 sampai 23.",jam (0–23),0
+presence_kapanewon_hourly.csv,n_maids,int64,Jumlah perangkat (MAID) unik yang terdeteksi pada kapanewon dalam jam pengamatan.,perangkat/MAID,16
+presence_kapanewon_hourly.csv,n_pings,int64,Jumlah catatan lokasi atau ping yang tercatat pada kapanewon dalam jam pengamatan.,ping,66
+tier1_summary.csv,pings_inside_diy_pct,float64,Persentase ping yang berada di dalam wilayah Daerah Istimewa Yogyakarta (DIY).,persen (%),100.0
+tier1_summary.csv,product,str,Nama atau identitas produk data yang dirangkum.,-,A_cell500m_daily
+tier1_summary.csv,k,int64,Ambang batas minimum jumlah perangkat yang digunakan dalam mekanisme publikasi data (threshold k).,perangkat/MAID,5
+tier1_summary.csv,rows_total,int64,Jumlah keseluruhan baris data sebelum suppression untuk produk terkait.,baris,518176
+tier1_summary.csv,rows_published,int64,Jumlah baris data yang berhasil dipublikasikan setelah suppression untuk produk terkait.,baris,183548
+tier1_summary.csv,rows_suppressed_pct,float64,Persentase baris data yang tidak dipublikasikan akibat mekanisme suppression.,persen (%),64.6
+tier1_summary.csv,maid_presence_suppressed_pct,float64,Persentase MAID presence yang terdampak suppression.,persen (%),6.6
+tier1_summary.csv,n_cells_published,int64,"Jumlah unit spasial yang memiliki data terpublikasi; untuk produk grid berupa jumlah grid, sedangkan untuk produk kapanewon berupa jumlah unit wilayah yang dipublikasikan.",unit spasial,5715
+validation_night_presence_kapanewon.csv,period,str,Periode pengamatan yang dicakup oleh ringkasan validasi.,rentang waktu,Dec 2021 - Apr 2022
+validation_night_presence_kapanewon.csv,kab_kota,str,Nama kabupaten/kota tempat kapanewon berada.,-,BANTUL
+validation_night_presence_kapanewon.csv,kapanewon,str,Nama kecamatan/kapanewon yang menjadi unit pengamatan.,-,BAMBANGLIPURO
+validation_night_presence_kapanewon.csv,night_presence,float64,Nilai indikator kehadiran perangkat pada malam hari; satuan dan rumus perhitungan belum dapat dipastikan dari CSV saja.,belum terverifikasi,23.980036297640652
+validation_night_presence_kapanewon.csv,slots_published_pct,float64,Persentase slot data yang berhasil dipublikasikan untuk wilayah tersebut.,persen (%),60.81677704194261
+validation_night_presence_kapanewon.csv,n_users,int64,Jumlah perangkat (MAID) yang tercatat pada wilayah tersebut dalam dataset validasi.,perangkat/MAID,4497
+validation_night_presence_kapanewon.csv,pop_actual,float64,Jumlah penduduk aktual berdasarkan data populasi resmi yang digunakan dalam dataset.,orang,41070.0

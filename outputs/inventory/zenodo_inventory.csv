@@ -1,0 +1,9 @@
+file_name,file_size_kb,total_rows,total_columns,duplicate_rows,total_missing_values,status
+home_maids_vs_population_kapanewon.csv,3.95,78,5,0,0,Success
+od_home_visits_kapanewon_monthly.csv,787.58,9894,11,0,0,Success
+od_origin_homes_monthly.csv,20.89,390,8,0,0,Success
+od_summary.csv,0.14,1,7,0,0,Success
+presence_cell500m_daily.csv,11025.86,183548,7,0,0,Success
+presence_kapanewon_hourly.csv,11904.21,230418,8,0,0,Success
+tier1_summary.csv,0.22,2,8,0,0,Success
+validation_night_presence_kapanewon.csv,13.02,156,7,0,0,Success

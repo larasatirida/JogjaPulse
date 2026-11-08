@@ -1,0 +1,62 @@
+file_name,column_name,data_type,meaning,unit,example_value
+home_maids_vs_population_kapanewon.csv,KAB_KOTA,str,,,YOGYAKARTA
+home_maids_vs_population_kapanewon.csv,KEC_KAPN,str,,,GONDOMANAN
+home_maids_vs_population_kapanewon.csv,n_users,int64,,,28874
+home_maids_vs_population_kapanewon.csv,pop_actual,float64,,,12850.0
+home_maids_vs_population_kapanewon.csv,ratio,float64,,,2.247003891050584
+od_home_visits_kapanewon_monthly.csv,month,str,,,2021-12
+od_home_visits_kapanewon_monthly.csv,origin_kab_code,float64,,,34.01
+od_home_visits_kapanewon_monthly.csv,origin_kab_kota,str,,,KULON PROGO
+od_home_visits_kapanewon_monthly.csv,origin_code,str,,,34.01.01
+od_home_visits_kapanewon_monthly.csv,origin_kapanewon,str,,,TEMON
+od_home_visits_kapanewon_monthly.csv,dest_kab_code,float64,,,34.01
+od_home_visits_kapanewon_monthly.csv,dest_kab_kota,str,,,KULON PROGO
+od_home_visits_kapanewon_monthly.csv,dest_code,str,,,34.01.01
+od_home_visits_kapanewon_monthly.csv,dest_kapanewon,str,,,TEMON
+od_home_visits_kapanewon_monthly.csv,n_maids,int64,,,569
+od_home_visits_kapanewon_monthly.csv,reduced_quality,bool,,,False
+od_origin_homes_monthly.csv,month,str,,,2021-12
+od_origin_homes_monthly.csv,origin_kab_code,float64,,,34.01
+od_origin_homes_monthly.csv,origin_kab_kota,str,,,KULON PROGO
+od_origin_homes_monthly.csv,origin_code,str,,,34.01.01
+od_origin_homes_monthly.csv,origin_kapanewon,str,,,TEMON
+od_origin_homes_monthly.csv,n_homed_maids,int64,,,658
+od_origin_homes_monthly.csv,n_homed_maids_daytime,int64,,,610
+od_origin_homes_monthly.csv,reduced_quality,bool,,,False
+od_summary.csv,k,int64,,,5
+od_summary.csv,min_nights,int64,,,2
+od_summary.csv,od_rows_total,int64,,,19263
+od_summary.csv,od_rows_published,int64,,,9894
+od_summary.csv,od_rows_suppressed_pct,float64,,,48.6
+od_summary.csv,inter_zonal_flow_kept_pct,float64,,,95.3
+od_summary.csv,origin_rows_published,int64,,,390
+presence_cell500m_daily.csv,cell_id,str,,,E786_N18255
+presence_cell500m_daily.csv,x_min_utm,int64,,,393000
+presence_cell500m_daily.csv,y_min_utm,int64,,,9127500
+presence_cell500m_daily.csv,centroid_lon,float64,,,110.031602
+presence_cell500m_daily.csv,centroid_lat,float64,,,-7.8899
+presence_cell500m_daily.csv,date,str,,,2021-12-01
+presence_cell500m_daily.csv,n_maids,int64,,,9
+presence_kapanewon_hourly.csv,kab_code,float64,,,34.01
+presence_kapanewon_hourly.csv,kab_kota,str,,,KULON PROGO
+presence_kapanewon_hourly.csv,kapanewon_code,str,,,34.01.01
+presence_kapanewon_hourly.csv,kapanewon,str,,,TEMON
+presence_kapanewon_hourly.csv,date,str,,,2021-12-01
+presence_kapanewon_hourly.csv,hour,int64,,,0
+presence_kapanewon_hourly.csv,n_maids,int64,,,16
+presence_kapanewon_hourly.csv,n_pings,int64,,,66
+tier1_summary.csv,pings_inside_diy_pct,float64,,,100.0
+tier1_summary.csv,product,str,,,A_cell500m_daily
+tier1_summary.csv,k,int64,,,5
+tier1_summary.csv,rows_total,int64,,,518176
+tier1_summary.csv,rows_published,int64,,,183548
+tier1_summary.csv,rows_suppressed_pct,float64,,,64.6
+tier1_summary.csv,maid_presence_suppressed_pct,float64,,,6.6
+tier1_summary.csv,n_cells_published,int64,,,5715
+validation_night_presence_kapanewon.csv,period,str,,,Dec 2021 - Apr 2022
+validation_night_presence_kapanewon.csv,kab_kota,str,,,BANTUL
+validation_night_presence_kapanewon.csv,kapanewon,str,,,BAMBANGLIPURO
+validation_night_presence_kapanewon.csv,night_presence,float64,,,23.980036297640652
+validation_night_presence_kapanewon.csv,slots_published_pct,float64,,,60.81677704194261
+validation_night_presence_kapanewon.csv,n_users,int64,,,4497
+validation_night_presence_kapanewon.csv,pop_actual,float64,,,41070.0
