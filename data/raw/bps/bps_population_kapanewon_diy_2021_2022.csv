@@ -1,0 +1,157 @@
+kapanewon_code,kab_kota,kapanewon,tahun,laki_laki,perempuan,total,total_published,flag_total_mismatch,sumber
+34.01.01,KULON PROGO,TEMON,2021,14159,14278,28437,28437,False,BPS Kab. Kulon Progo - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.01.01,KULON PROGO,TEMON,2022,14274,14399,28673,28673,False,BPS Kab. Kulon Progo - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.01.02,KULON PROGO,WATES,2021,24317,24571,48888,48888,False,BPS Kab. Kulon Progo - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.01.02,KULON PROGO,WATES,2022,24421,24680,49101,49101,False,BPS Kab. Kulon Progo - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.01.03,KULON PROGO,PANJATAN,2021,18990,19395,38385,38385,False,BPS Kab. Kulon Progo - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.01.03,KULON PROGO,PANJATAN,2022,19134,19541,38675,38675,False,BPS Kab. Kulon Progo - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.01.04,KULON PROGO,GALUR,2021,15907,16225,32132,32132,False,BPS Kab. Kulon Progo - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.01.04,KULON PROGO,GALUR,2022,15962,16286,32248,32248,False,BPS Kab. Kulon Progo - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.01.05,KULON PROGO,LENDAH,2021,20179,20301,40480,40480,False,BPS Kab. Kulon Progo - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.01.05,KULON PROGO,LENDAH,2022,20264,20390,40654,40654,False,BPS Kab. Kulon Progo - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.01.06,KULON PROGO,SENTOLO,2021,24821,25342,50163,50163,False,BPS Kab. Kulon Progo - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.01.06,KULON PROGO,SENTOLO,2022,24960,25485,50445,50445,False,BPS Kab. Kulon Progo - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.01.07,KULON PROGO,PENGASIH,2021,25992,26869,52861,52861,False,BPS Kab. Kulon Progo - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.01.07,KULON PROGO,PENGASIH,2022,26230,27114,53344,53344,False,BPS Kab. Kulon Progo - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.01.08,KULON PROGO,KOKAP,2021,17613,17796,35409,35409,False,BPS Kab. Kulon Progo - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.01.08,KULON PROGO,KOKAP,2022,17725,17913,35638,35638,False,BPS Kab. Kulon Progo - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.01.09,KULON PROGO,GIRIMULYO,2021,11883,12267,24150,24150,False,BPS Kab. Kulon Progo - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.01.09,KULON PROGO,GIRIMULYO,2022,11929,12314,24243,24243,False,BPS Kab. Kulon Progo - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.01.10,KULON PROGO,NANGGULAN,2021,15048,15416,30464,30464,False,BPS Kab. Kulon Progo - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.01.10,KULON PROGO,NANGGULAN,2022,15126,15493,30619,30619,False,BPS Kab. Kulon Progo - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.01.11,KULON PROGO,SAMIGALUH,2021,13659,13613,27272,27272,False,BPS Kab. Kulon Progo - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.01.11,KULON PROGO,SAMIGALUH,2022,13709,13666,27375,27375,False,BPS Kab. Kulon Progo - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.01.12,KULON PROGO,KALIBAWANG,2021,14502,15052,29554,29554,False,BPS Kab. Kulon Progo - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.01.12,KULON PROGO,KALIBAWANG,2022,14551,15108,29659,29659,False,BPS Kab. Kulon Progo - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.02.01,BANTUL,SRANDAKAN,2021,15482,15596,31078,31078,False,Satu Data Bantul (kode 2.12.0063)
+34.02.01,BANTUL,SRANDAKAN,2022,15447,15622,31069,31069,False,Satu Data Bantul (kode 2.12.0063)
+34.02.02,BANTUL,SANDEN,2021,15677,16109,31786,31786,False,Satu Data Bantul (kode 2.12.0063)
+34.02.02,BANTUL,SANDEN,2022,15738,16106,31844,31844,False,Satu Data Bantul (kode 2.12.0063)
+34.02.03,BANTUL,KRETEK,2021,15015,15652,30667,30667,False,Satu Data Bantul (kode 2.12.0063)
+34.02.03,BANTUL,KRETEK,2022,15039,15681,30720,30720,False,Satu Data Bantul (kode 2.12.0063)
+34.02.04,BANTUL,PUNDONG,2021,17688,18123,35811,35811,False,Satu Data Bantul (kode 2.12.0063)
+34.02.04,BANTUL,PUNDONG,2022,17731,18165,35896,35896,False,Satu Data Bantul (kode 2.12.0063)
+34.02.05,BANTUL,BAMBANGLIPURO,2021,20564,21129,41693,41693,False,Satu Data Bantul (kode 2.12.0063)
+34.02.05,BANTUL,BAMBANGLIPURO,2022,20654,21207,41861,41861,False,Satu Data Bantul (kode 2.12.0063)
+34.02.06,BANTUL,PANDAK,2021,26086,25806,51892,51892,False,Satu Data Bantul (kode 2.12.0063)
+34.02.06,BANTUL,PANDAK,2022,26203,26015,52218,52218,False,Satu Data Bantul (kode 2.12.0063)
+34.02.07,BANTUL,PAJANGAN,2021,18388,18380,36768,36768,False,Satu Data Bantul (kode 2.12.0063)
+34.02.07,BANTUL,PAJANGAN,2022,18640,18641,37281,37281,False,Satu Data Bantul (kode 2.12.0063)
+34.02.08,BANTUL,BANTUL,2021,32137,32593,64730,64730,False,Satu Data Bantul (kode 2.12.0063)
+34.02.08,BANTUL,BANTUL,2022,32468,32983,65451,65451,False,Satu Data Bantul (kode 2.12.0063)
+34.02.09,BANTUL,JETIS,2021,29293,29416,58709,58709,False,Satu Data Bantul (kode 2.12.0063)
+34.02.09,BANTUL,JETIS,2022,29528,29671,59199,59199,False,Satu Data Bantul (kode 2.12.0063)
+34.02.10,BANTUL,IMOGIRI,2021,31715,32105,63820,63820,False,Satu Data Bantul (kode 2.12.0063)
+34.02.10,BANTUL,IMOGIRI,2022,31902,32379,64281,64281,False,Satu Data Bantul (kode 2.12.0063)
+34.02.11,BANTUL,DLINGO,2021,19845,20157,40002,40002,False,Satu Data Bantul (kode 2.12.0063)
+34.02.11,BANTUL,DLINGO,2022,19944,20313,40257,40257,False,Satu Data Bantul (kode 2.12.0063)
+34.02.12,BANTUL,BANGUNTAPAN,2021,56486,57198,113684,113684,False,Satu Data Bantul (kode 2.12.0063)
+34.02.12,BANTUL,BANGUNTAPAN,2022,57115,58012,115127,115127,False,Satu Data Bantul (kode 2.12.0063)
+34.02.13,BANTUL,PLERET,2021,24486,24084,48570,48570,False,Satu Data Bantul (kode 2.12.0063)
+34.02.13,BANTUL,PLERET,2022,24694,24358,49052,49052,False,Satu Data Bantul (kode 2.12.0063)
+34.02.14,BANTUL,PIYUNGAN,2021,26376,26649,53025,53025,False,Satu Data Bantul (kode 2.12.0063)
+34.02.14,BANTUL,PIYUNGAN,2022,26533,26924,53457,53457,False,Satu Data Bantul (kode 2.12.0063)
+34.02.15,BANTUL,SEWON,2021,50562,50310,100872,100872,False,Satu Data Bantul (kode 2.12.0063)
+34.02.15,BANTUL,SEWON,2022,50760,50671,101431,101431,False,Satu Data Bantul (kode 2.12.0063)
+34.02.16,BANTUL,KASIHAN,2021,52306,52655,104961,104961,False,Satu Data Bantul (kode 2.12.0063)
+34.02.16,BANTUL,KASIHAN,2022,52922,53280,106202,106202,False,Satu Data Bantul (kode 2.12.0063)
+34.02.17,BANTUL,SEDAYU,2021,24209,24236,48445,48445,False,Satu Data Bantul (kode 2.12.0063)
+34.02.17,BANTUL,SEDAYU,2022,24424,24475,48899,48899,False,Satu Data Bantul (kode 2.12.0063)
+34.03.01,GUNUNGKIDUL,WONOSARI,2021,,,87616,87616,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.01,GUNUNGKIDUL,WONOSARI,2022,,,87815,87815,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.02,GUNUNGKIDUL,NGLIPAR,2021,,,32805,32805,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.02,GUNUNGKIDUL,NGLIPAR,2022,,,32859,32859,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.03,GUNUNGKIDUL,PLAYEN,2021,,,60744,60744,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.03,GUNUNGKIDUL,PLAYEN,2022,,,60892,60892,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.04,GUNUNGKIDUL,PATUK,2021,,,34264,34264,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.04,GUNUNGKIDUL,PATUK,2022,,,34388,34388,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.05,GUNUNGKIDUL,PALIYAN,2021,,,32049,32049,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.05,GUNUNGKIDUL,PALIYAN,2022,,,32095,32095,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.06,GUNUNGKIDUL,PANGGANG,2021,,,28957,28957,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.06,GUNUNGKIDUL,PANGGANG,2022,,,28976,28976,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.07,GUNUNGKIDUL,TEPUS,2021,,,35300,35300,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.07,GUNUNGKIDUL,TEPUS,2022,,,35365,35365,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.08,GUNUNGKIDUL,SEMANU,2021,,,58330,58330,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.08,GUNUNGKIDUL,SEMANU,2022,,,58531,58531,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.09,GUNUNGKIDUL,KARANGMOJO,2021,,,55645,55645,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.09,GUNUNGKIDUL,KARANGMOJO,2022,,,55896,55896,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.10,GUNUNGKIDUL,PONJONG,2021,,,54508,54508,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.10,GUNUNGKIDUL,PONJONG,2022,,,54553,54553,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.11,GUNUNGKIDUL,RONGKOP,2021,,,28543,28543,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.11,GUNUNGKIDUL,RONGKOP,2022,,,28488,28488,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.12,GUNUNGKIDUL,SEMIN,2021,,,55521,55521,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.12,GUNUNGKIDUL,SEMIN,2022,,,55734,55734,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.13,GUNUNGKIDUL,NGAWEN,2021,,,33855,33855,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.13,GUNUNGKIDUL,NGAWEN,2022,,,33817,33817,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.14,GUNUNGKIDUL,GEDANGSARI,2021,,,38385,38385,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.14,GUNUNGKIDUL,GEDANGSARI,2022,,,38398,38398,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.15,GUNUNGKIDUL,SAPTOSARI,2021,,,38419,38419,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.15,GUNUNGKIDUL,SAPTOSARI,2022,,,38533,38533,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.16,GUNUNGKIDUL,GIRISUBO,2021,,,24520,24520,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.16,GUNUNGKIDUL,GIRISUBO,2022,,,24562,24562,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.17,GUNUNGKIDUL,TANJUNGSARI,2021,,,28195,28195,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.17,GUNUNGKIDUL,TANJUNGSARI,2022,,,28225,28225,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.18,GUNUNGKIDUL,PURWOSARI,2021,,,20613,20613,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.03.18,GUNUNGKIDUL,PURWOSARI,2022,,,20580,20580,False,BPS Kab. Gunungkidul - Penduduk Pertengahan Tahun menurut Kapanewon
+34.04.01,SLEMAN,GAMPING,2021,51699,52321,104020,104020,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.01,SLEMAN,GAMPING,2022,51951,52899,104850,104850,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.02,SLEMAN,GODEAN,2021,36485,36551,73036,73036,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.02,SLEMAN,GODEAN,2022,36494,36650,73144,73144,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.03,SLEMAN,MOYUDAN,2021,16852,16990,33842,33842,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.03,SLEMAN,MOYUDAN,2022,16834,17111,33945,33945,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.04,SLEMAN,MINGGIR,2021,15860,16599,32459,32459,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.04,SLEMAN,MINGGIR,2022,15866,16643,32509,32509,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.05,SLEMAN,SEYEGAN,2021,25788,26179,51967,51967,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.05,SLEMAN,SEYEGAN,2022,25889,26339,52228,52228,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.06,SLEMAN,MLATI,2021,50127,50580,100707,100707,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.06,SLEMAN,MLATI,2022,51040,51664,102704,102704,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.07,SLEMAN,DEPOK,2021,65097,66145,131242,131242,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.07,SLEMAN,DEPOK,2022,66331,67169,133500,133500,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.08,SLEMAN,BERBAH,2021,29816,30160,59976,59976,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.08,SLEMAN,BERBAH,2022,30003,30398,60401,60401,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.09,SLEMAN,PRAMBANAN,2021,26573,27286,53859,53859,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.09,SLEMAN,PRAMBANAN,2022,26670,27442,54112,54112,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.10,SLEMAN,KALASAN,2021,43436,43921,87357,87357,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.10,SLEMAN,KALASAN,2022,43580,44172,87752,87752,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.11,SLEMAN,NGEMPLAK,2021,34170,34406,68576,68576,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.11,SLEMAN,NGEMPLAK,2022,34327,34644,68971,68971,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.12,SLEMAN,NGAGLIK,2021,52751,53422,106173,106173,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.12,SLEMAN,NGAGLIK,2022,53623,54269,107892,107892,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.13,SLEMAN,SLEMAN,2021,36300,36672,72972,72972,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.13,SLEMAN,SLEMAN,2022,36491,36897,73388,73388,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.14,SLEMAN,TEMPEL,2021,26888,27276,54164,54164,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.14,SLEMAN,TEMPEL,2022,26875,27325,54200,54200,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.15,SLEMAN,TURI,2021,18438,18542,36980,36980,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.15,SLEMAN,TURI,2022,18462,18598,37060,37060,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.16,SLEMAN,PAKEM,2021,18546,19110,37656,37656,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.16,SLEMAN,PAKEM,2022,18511,19133,37644,37644,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.17,SLEMAN,CANGKRINGAN,2021,15552,15936,31488,31488,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.04.17,SLEMAN,CANGKRINGAN,2022,15569,15985,31554,31554,False,BPS Kab. Sleman - Penduduk menurut Kecamatan dan Jenis Kelamin
+34.71.01,YOGYAKARTA,TEGALREJO,2021,18279,19112,37391,37391,False,BPS Kota Yogyakarta - Penduduk menurut Jenis Kelamin dan Kelurahan (diagregasi)
+34.71.01,YOGYAKARTA,TEGALREJO,2022,18198,19000,37198,37198,False,BPS Kota Yogyakarta - Penduduk menurut Jenis Kelamin dan Kelurahan (diagregasi)
+34.71.02,YOGYAKARTA,JETIS,2021,13245,14761,28006,27286,True,BPS Kota Yogyakarta - Penduduk menurut Jenis Kelamin dan Kelurahan (diagregasi)
+34.71.02,YOGYAKARTA,JETIS,2022,13061,13915,26976,26976,False,BPS Kota Yogyakarta - Penduduk menurut Jenis Kelamin dan Kelurahan (diagregasi)
+34.71.03,YOGYAKARTA,GONDOKUSUMAN,2021,20295,22344,42639,43179,True,BPS Kota Yogyakarta - Penduduk menurut Jenis Kelamin dan Kelurahan (diagregasi)
+34.71.03,YOGYAKARTA,GONDOKUSUMAN,2022,20671,22081,42752,42752,False,BPS Kota Yogyakarta - Penduduk menurut Jenis Kelamin dan Kelurahan (diagregasi)
+34.71.04,YOGYAKARTA,DANUREJAN,2021,10454,10929,21383,21383,False,BPS Kota Yogyakarta - Penduduk menurut Jenis Kelamin dan Kelurahan (diagregasi)
+34.71.04,YOGYAKARTA,DANUREJAN,2022,10338,10771,21109,21109,False,BPS Kota Yogyakarta - Penduduk menurut Jenis Kelamin dan Kelurahan (diagregasi)
+34.71.05,YOGYAKARTA,GEDONGTENGEN,2021,9652,10031,19683,19683,False,BPS Kota Yogyakarta - Penduduk menurut Jenis Kelamin dan Kelurahan (diagregasi)
+34.71.05,YOGYAKARTA,GEDONGTENGEN,2022,9442,9818,19260,19260,False,BPS Kota Yogyakarta - Penduduk menurut Jenis Kelamin dan Kelurahan (diagregasi)
+34.71.06,YOGYAKARTA,NGAMPILAN,2021,8930,9355,18285,18285,False,BPS Kota Yogyakarta - Penduduk menurut Jenis Kelamin dan Kelurahan (diagregasi)
+34.71.06,YOGYAKARTA,NGAMPILAN,2022,8871,9204,18075,18075,False,BPS Kota Yogyakarta - Penduduk menurut Jenis Kelamin dan Kelurahan (diagregasi)
+34.71.07,YOGYAKARTA,WIROBRAJAN,2021,13693,14264,27957,27957,False,BPS Kota Yogyakarta - Penduduk menurut Jenis Kelamin dan Kelurahan (diagregasi)
+34.71.07,YOGYAKARTA,WIROBRAJAN,2022,13609,14224,27833,27863,True,BPS Kota Yogyakarta - Penduduk menurut Jenis Kelamin dan Kelurahan (diagregasi)
+34.71.08,YOGYAKARTA,MANTRIJERON,2021,17248,18221,35469,35469,False,BPS Kota Yogyakarta - Penduduk menurut Jenis Kelamin dan Kelurahan (diagregasi)
+34.71.08,YOGYAKARTA,MANTRIJERON,2022,17091,18097,35188,35188,False,BPS Kota Yogyakarta - Penduduk menurut Jenis Kelamin dan Kelurahan (diagregasi)
+34.71.09,YOGYAKARTA,KRATON,2021,10598,11163,21761,21755,True,BPS Kota Yogyakarta - Penduduk menurut Jenis Kelamin dan Kelurahan (diagregasi)
+34.71.09,YOGYAKARTA,KRATON,2022,10444,11066,21510,21510,False,BPS Kota Yogyakarta - Penduduk menurut Jenis Kelamin dan Kelurahan (diagregasi)
+34.71.10,YOGYAKARTA,GONDOMANAN,2021,7252,7617,14869,14869,False,BPS Kota Yogyakarta - Penduduk menurut Jenis Kelamin dan Kelurahan (diagregasi)
+34.71.10,YOGYAKARTA,GONDOMANAN,2022,7177,7548,14725,14725,False,BPS Kota Yogyakarta - Penduduk menurut Jenis Kelamin dan Kelurahan (diagregasi)
+34.71.11,YOGYAKARTA,PAKUALAMAN,2021,5124,5533,10657,10657,False,BPS Kota Yogyakarta - Penduduk menurut Jenis Kelamin dan Kelurahan (diagregasi)
+34.71.11,YOGYAKARTA,PAKUALAMAN,2022,5056,5493,10549,10549,False,BPS Kota Yogyakarta - Penduduk menurut Jenis Kelamin dan Kelurahan (diagregasi)
+34.71.12,YOGYAKARTA,MERGANGSAN,2021,15343,16444,31787,31875,True,BPS Kota Yogyakarta - Penduduk menurut Jenis Kelamin dan Kelurahan (diagregasi)
+34.71.12,YOGYAKARTA,MERGANGSAN,2022,15258,16326,31584,31404,True,BPS Kota Yogyakarta - Penduduk menurut Jenis Kelamin dan Kelurahan (diagregasi)
+34.71.13,YOGYAKARTA,UMBULHARJO,2021,34743,36269,71012,71012,False,BPS Kota Yogyakarta - Penduduk menurut Jenis Kelamin dan Kelurahan (diagregasi)
+34.71.13,YOGYAKARTA,UMBULHARJO,2022,34696,36241,70937,71937,True,BPS Kota Yogyakarta - Penduduk menurut Jenis Kelamin dan Kelurahan (diagregasi)
+34.71.14,YOGYAKARTA,KOTAGEDE,2021,17091,17617,34708,34708,False,BPS Kota Yogyakarta - Penduduk menurut Jenis Kelamin dan Kelurahan (diagregasi)
+34.71.14,YOGYAKARTA,KOTAGEDE,2022,17256,17815,35071,35071,False,BPS Kota Yogyakarta - Penduduk menurut Jenis Kelamin dan Kelurahan (diagregasi)
